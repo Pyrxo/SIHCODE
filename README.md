@@ -1,3 +1,2 @@
 # SIHCODE
-Author-pyrxo
-this repo is a experimental project .
+This repo is a experimental project, Author-pyrxo
